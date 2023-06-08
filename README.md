@@ -9,7 +9,7 @@ My name is Ashwin. I am currently pursuing my bachelors in Computer Science. Exc
 - IOT
 
 ### Tech Stack
-HTML | CSS | Javascript | React JS
+HTML | CSS | Javascript | Bootstrap | React JS
 <!-- 
 <div align="center">
   
