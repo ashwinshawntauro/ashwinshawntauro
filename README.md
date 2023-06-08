@@ -10,9 +10,9 @@ My name is Ashwin. I am currently pursuing my bachelors in Computer Science. Exc
 
 ### Tech Stack
 HTML | CSS | Javascript | React JS
-
+<!-- 
 <div align="center">
   
 ![Profile views](https://gpvc.arturio.dev/ashwinshawntauro)
   
-</div>
+</div> -->
