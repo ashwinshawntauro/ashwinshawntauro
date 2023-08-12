@@ -12,7 +12,5 @@ My name is Ashwin. I am currently pursuing my bachelors in Computer Science. Exc
 HTML | CSS | Javascript | Bootstrap | React JS | Flutter
 <!-- 
 <div align="center">
-  
-![Profile views](https://komarev.com/ghpvc/?username=ashwinshawntauro&color=brightgreen)
-  
+<img src="https://komarev.com/ghpvc/?username=ashwinshawntauro&label=Profile%20views&color=brightgreen&style=flat" alt="profile-views" />
 </div> -->
