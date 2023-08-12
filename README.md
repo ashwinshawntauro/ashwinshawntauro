@@ -9,10 +9,10 @@ My name is Ashwin. I am currently pursuing my bachelors in Computer Science. Exc
 - IOT
 
 ### Tech Stack
-HTML | CSS | Javascript | Bootstrap | React JS
+HTML | CSS | Javascript | Bootstrap | React JS | Flutter
 <!-- 
 <div align="center">
   
-![Profile views](https://gpvc.arturio.dev/ashwinshawntauro)
+![Profile views](https://komarev.com/ghpvc/?username=ashwinshawntauro&color=brightgreen)
   
 </div> -->
