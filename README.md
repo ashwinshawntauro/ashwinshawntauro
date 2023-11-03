@@ -1,5 +1,5 @@
 <h1 align="center">Hi ⭐, I am Ashwin Tauro</h1>
-<h3 align="center">Frontend Developer | Web Developer </h3>
+<h3 align="center">Android Developer | Web Developer </h3>
 
 ### About Me
 I started my Coding Journey with <b>Web Development(HTML|CSS|Javascript)</b> and moved on with <b>ReactJS</b> to explore more opportunities. With curiousity, I started trying App Development and loved the way it worked. Hence decided to continue my journey with Application Development precisely <b>Android Development</b>. Besides this I also love writing codes to analyze chart patterns and indicators to improve trading accuracy. Also being actively participating in <b>Python Development</b> specially API and Web Scraping. 
